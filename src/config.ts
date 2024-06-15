@@ -1,1 +1,1 @@
-export const TG_TOKEN = '7013521680:AAG9FrpVxZL0DAjEhRoYoThqMvxsEA5meoI';
+export const TG_TOKEN = process.env.TELEGRAM_TOKEN;

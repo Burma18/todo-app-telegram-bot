@@ -31,6 +31,7 @@ A Telegram bot for managing tasks efficiently. Built with Nest.js and Telegraf.
    POSTGRES_USER=postgres
    POSTGRES_PASSWORD=yourpassword
    POSTGRES_DATABASE=todo-app-tg-bot
+   TELEGRAM_TOKEN=telegram-token
 
    ```
 
